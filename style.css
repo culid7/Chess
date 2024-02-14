@@ -1,0 +1,62 @@
+html {
+  background: url(images/boardBackground.jpg);
+}
+#title {
+  background-color: rgb(65, 65, 65);
+  text-align: center;
+  border-radius: 400px;
+  color: white;
+}
+body {
+  background-color: white;
+  width: 600px;
+  margin: 0px auto;
+  padding: 10px 120px;
+  border-radius: 0px;
+  height: ;
+  opacity: 0.95;
+}
+.center {
+  text-align: center;
+  color: rgb(230, 180, 73);
+}
+.center2 {
+  text-align: center;
+  color: rgb(32, 54, 255);
+}
+.center3 {
+  text-align: center;
+  color: rgb(255, 32, 32);
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+.bolded {
+  font-weight: bold;
+}
+img {
+  width: 400px;
+  height: 300px;
+}
+h1 {
+  font-family: "Kavivanar", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h2 {
+  font-family: "Kavivanar", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.hi {
+  text-align: center;
+}
